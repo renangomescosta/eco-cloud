@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-sudo podman rm -f eco 2>/dev/null
-sudo podman container restore --tcp-established --import "${1:-$(ls -t backup/*.tar.gz | head -1)}"
+sudo podman load -i ~/backup/app-20261021-125647.tar.gz
+sudo podman container restore --import ~/backup/cp-XXXXXXXX-XXXXXX.tar.gz
