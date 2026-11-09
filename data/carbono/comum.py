@@ -51,3 +51,4 @@ def imprimir(regiao, horario, r):
           f"{r['intensidade_gco2_kwh']:>6} gCO2eq/kWh  "
           f"renovável {r['pct_renovavel']:6.2f}%  "
           f"livre de carbono {r['pct_livre_carbono']:6.2f}%")
+

@@ -33,6 +33,7 @@ if __name__ == "__main__":
     for modulo in REGIOES:
         try:
             for nome, horario, r in modulo.coletar():
+                # regiao, horario, r
                 imprimir(nome, horario, r)
         except Exception as e:  # uma região com erro não derruba as outras
             print(f"{modulo.__name__:22} FALHOU -> {type(e).__name__}: {e}")

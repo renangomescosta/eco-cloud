@@ -43,7 +43,7 @@ Antes de optar por um modelo próprio, avaliamos o uso de APIs prontas de intens
 
 
 > Para rodar:
-`python3 coletar_todas.py`
+`python coletar_todas.py`
 
 
 
