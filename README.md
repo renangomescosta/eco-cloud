@@ -2,6 +2,17 @@
 Projeto de Mestrado
 > Email: renancosta921@usp.br
 
+# Problema - Rascunho
+>Dado um conjunto de containers e uma restrição (Não definida), como escalonar o conjunto de containers de tal forma que minimizemos o gasto de carbono em todo o espaço. 
+
+## 1 Caso
+> 1 Tomador de decisão (Escalonador).
+## 2 Caso
+> Situação Conflitante: +1 Tomador de decisão (Escalonador) disputando pela mesma zona computacional.
+
+
+
+
 
 
 # Regiões Utilizadas

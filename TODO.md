@@ -15,8 +15,7 @@
 
 
 # Estudar
-- Ver os dados do Eletricity Maps
-- Para ajudar a gente ver estratégias de escalonamento
+- Tentar achar dados históricos (sem ser tempo real)
 
 ## DDNS
 - Usado principalmente para acessar dispositivos domésticos, como camera, alexa, etc.
